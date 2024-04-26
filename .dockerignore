@@ -1,9 +1,5 @@
-node_modules
-npm-debug.log
-.dockerignore
-.gitignore
-.git
-README.md
+node_modules/
 Dockerfile
-docker-compose.yml
-*.md
+README.md
+.gitignore
+.nvmrc
